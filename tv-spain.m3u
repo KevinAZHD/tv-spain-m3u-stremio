@@ -41,3 +41,5 @@ https://ztnr.rtve.es/ztnr/6982891.m3u8
 https://ztnr.rtve.es/ztnr/16464388.m3u8
 #EXTINF:-1 tvg-id="SaberYGanar.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/LogoSaberYGanar.png" group-title="Concursos" tvg-name="Saber y Ganar",Saber y Ganar
 https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:-1 group-title="Murcia" tvg-id="7TVMUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",7 TV Región Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
