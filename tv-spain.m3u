@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nacional" tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 1
+#EXTINF:-1 tvg-id="La1.es@HEVC" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1
+http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="General",La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="General",Antena 3
