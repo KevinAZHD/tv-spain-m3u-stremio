@@ -11,8 +11,6 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Entertainment",La Sexta (1080p)
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="La7.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/La_7_%28Murcia%29.svg/505px-La_7_%28Murcia%29.svg.png" group-title="Autonómico",La 7 Región de Murcia (1080p)
-https://www.youtube.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA/live
 #EXTINF:-1 tvg-id="Neox.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="Entertainment",Neox (1080p)
 http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Lifestyle",Nova (1080p)
@@ -31,3 +29,5 @@ http://176.65.146.237:8401/play/a0ac/index.m3u8
 http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="General;Public",Canal Sur (1080p)
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Nacional",Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
