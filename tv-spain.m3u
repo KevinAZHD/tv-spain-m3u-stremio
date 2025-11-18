@@ -27,5 +27,5 @@ http://176.65.146.237:8401/play/a09q/index.m3u8
 http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="Entertainment",FDF (1080p)
 http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="TVCanalSur.do@SD" tvg-logo="https://static-media.streema.com/media/cache/34/c2/34c2b7608c26ed417843638ecbd659ae.png" group-title="Entertainment",Canal Sur (1080p)
-https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="General;Public",Canal Sur (1080p)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
